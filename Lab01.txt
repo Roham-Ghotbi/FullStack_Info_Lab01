@@ -1,0 +1,9 @@
+1. cd
+2. mkdir
+3. mv filename newfilename
+4. ls
+5. mv filename /location
+6. cp file with full address /place To be copied to
+7. grep
+8. ssh
+9. rm -r
